@@ -1,5 +1,4 @@
-Vehicle Ownership Transfers
-Project Description
+
 Vehicle Ownership Transfers is a blockchain-based smart contract system built on Ethereum that revolutionizes how vehicle ownership records are maintained and transferred. This decentralized application eliminates the need for centralized authorities by providing a transparent, immutable, and efficient platform for vehicle registration and ownership transfers.
 The smart contract enables vehicle owners to register their vehicles on the blockchain, initiate ownership transfers, and maintain a complete history of ownership changes. Each vehicle is uniquely identified by its VIN (Vehicle Identification Number), ensuring authenticity and preventing fraud.
 Project Vision
